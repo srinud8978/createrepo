@@ -1,6 +1,8 @@
 package company;
 
 public class Test {
+private int empid;
+private String empname;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
